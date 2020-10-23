@@ -1,0 +1,13 @@
+
+form
+{
+    width: 700px;
+    padding: 30px;
+    background-color: rgba(214, 231, 231, 0.171);
+}
+hr
+{
+    width: 640px;
+    height: 2px;
+    background-color: rgba(214, 231, 231, 0.171);
+}
